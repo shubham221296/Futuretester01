@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-23T15:33:41 IST" name="Default suite" finished-at="2022-07-23T15:33:58 IST" duration-ms="16620">
+    <groups>
+    </groups>
+    <test started-at="2022-07-23T15:33:41 IST" name="Default test" finished-at="2022-07-23T15:33:58 IST" duration-ms="16620">
+      <class name="testc_A2.Verify_test">
+        <test-method is-config="true" signature="bm1()[pri:0, instance:testc_A2.Verify_test@6580cfdd]" started-at="2022-07-23T15:33:41 IST" name="bm1" finished-at="2022-07-23T15:33:51 IST" duration-ms="9881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm1 -->
+        <test-method signature="tc_001()[pri:0, instance:testc_A2.Verify_test@6580cfdd]" started-at="2022-07-23T15:33:51 IST" name="tc_001" finished-at="2022-07-23T15:33:53 IST" duration-ms="2355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001 -->
+        <test-method is-config="true" signature="am1()[pri:0, instance:testc_A2.Verify_test@6580cfdd]" started-at="2022-07-23T15:33:53 IST" name="am1" finished-at="2022-07-23T15:33:58 IST" duration-ms="4313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am1 -->
+      </class> <!-- testc_A2.Verify_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
